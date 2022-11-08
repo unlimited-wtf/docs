@@ -21,7 +21,7 @@ You can change the used port before launch with the convar \
 4. A setup screen welcomes you and will help you setting up everything.
 5. After the language selection and creating the master user you will need to insert your setup token mentioned before.
 
-<figure><img src="../.gitbook/assets/Unbenannt (1).PNG" alt="Setup Token"><figcaption><p>Setup token</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Unbenannt.PNG" alt="Setup Token"><figcaption><p>Setup token</p></figcaption></figure>
 
 
 

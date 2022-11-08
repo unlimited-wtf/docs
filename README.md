@@ -16,14 +16,10 @@ Unlimited is a paid resource you can get on our tebex shop. The software will be
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="development/items/" %}
-[items](development/items/)
+{% content-ref url="overview/what-we-do.md" %}
+[what-we-do.md](overview/what-we-do.md)
 {% endcontent-ref %}
 
-{% content-ref url="development/items/setting-permissions.md" %}
-[setting-permissions.md](development/items/setting-permissions.md)
-{% endcontent-ref %}
-
-{% content-ref url="development/items/inviting-members.md" %}
-[inviting-members.md](development/items/inviting-members.md)
+{% content-ref url="overview/our-features.md" %}
+[our-features.md](overview/our-features.md)
 {% endcontent-ref %}

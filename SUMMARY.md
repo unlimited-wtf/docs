@@ -9,14 +9,12 @@
 
 ## Gameserver
 
-* [🗺 Live Map](gameserver/live-map.md)
+* [🗺 Live Map](product-guides/making-a-post.md)
 * [🗒 Logs](gameserver/logs.md)
 
 ## Development
 
-* [📦 Items](development/items/README.md)
-  * [📝 Setting permissions](development/items/setting-permissions.md)
-  * [🧑 Inviting Members](development/items/inviting-members.md)
+* [📦 Items](development/items.md)
 * [🗃 Jobs](development/jobs.md)
 * [🥷 Gangs](development/gangs.md)
 * [🚗 Vehicles](development/vehicles.md)
