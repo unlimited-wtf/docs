@@ -1,4 +1,4 @@
-# 📪 Making a post
+# 🗺 Live Map
 
 ## Step 1 - Start journalling
 

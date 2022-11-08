@@ -4,21 +4,24 @@
 
 ## Get started
 
-* [🛠 Setup](get-started/setup.md)
-* [🆙 Update](get-started/update.md)
+* [🛠 Setup](overview/what-we-do.md)
+* [🆙 Update](overview/our-features.md)
 
-## Product Guides
+## Gameserver
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [🗺 Live Map](gameserver/live-map.md)
+* [🗒 Logs](gameserver/logs.md)
 
-## Fundamentals
+## Development
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [📦 Items](development/items/README.md)
+  * [📝 Setting permissions](development/items/setting-permissions.md)
+  * [🧑 Inviting Members](development/items/inviting-members.md)
+* [🗃 Jobs](development/jobs.md)
+* [🥷 Gangs](development/gangs.md)
+* [🚗 Vehicles](development/vehicles.md)
 
-## Use Cases
+## Management
 
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [🧑🎄 Users](management/users.md)
+* [🔐 Roles](management/roles.md)
