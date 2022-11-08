@@ -2,10 +2,10 @@
 
 * [👋 Introduction](README.md)
 
-## Overview
+## Get started
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [🛠 Setup](get-started/setup.md)
+* [🆙 Update](get-started/update.md)
 
 ## Product Guides
 
