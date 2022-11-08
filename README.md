@@ -1,8 +1,8 @@
 ---
 description: >-
-  Welcome to the Unlimited for QBCore Documentation. Unlimited is a webpanel for
-  your QBCore based FiveM Server. You can configure and monitor your server
-  live!
+  Welcome to Unlimited - Documentation. The Webpanel for QB-Core you don't want
+  to miss on your FiveM Server! You will find everything you need to set your
+  webpanel here.
 layout: landing
 ---
 
