@@ -14,7 +14,7 @@
 
 ## Development
 
-* [📦 Items](development/items.md)
+* [📦 Items](fundamentals/getting-set-up/README.md)
 * [🗃 Jobs](development/jobs.md)
 * [🥷 Gangs](development/gangs.md)
 * [🚗 Vehicles](development/vehicles.md)
