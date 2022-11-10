@@ -8,9 +8,9 @@ layout: landing
 
 # 👋 Introduction
 
-## How can i get Unlimited?
+## How can i get Spectre?
 
-Unlimited is a paid resource you can get on our tebex shop. The software will be update frequently but there is no guarantee for updates except bug fixes. Updates and of course bug fixes are free of extra charge.&#x20;
+Spectre is a paid resource you can get on our tebex shop. The software will be update frequently but there is no guarantee for updates except bug fixes. Updates and of course bug fixes are free of extra charge.&#x20;
 
 ## Get Started
 
