@@ -6,6 +6,7 @@
 
 * [🛠 Setup](get-started/what-we-do.md)
 * [🆙 Update](get-started/our-features.md)
+* [⚙ Configuration](get-started/configuration.md)
 
 ## Gameserver
 
