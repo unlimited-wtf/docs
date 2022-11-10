@@ -4,22 +4,22 @@
 
 ## Get started
 
-* [🛠 Setup](overview/what-we-do.md)
-* [🆙 Update](overview/our-features.md)
+* [🛠 Setup](get-started/what-we-do.md)
+* [🆙 Update](get-started/our-features.md)
 
 ## Gameserver
 
-* [🗺 Live Map](product-guides/making-a-post.md)
+* [🗺 Live Map](gameserver/making-a-post.md)
 * [🗒 Logs](gameserver/logs.md)
 
 ## Development
 
-* [📦 Items](fundamentals/getting-set-up/README.md)
+* [📦 Items](development/getting-set-up.md)
 * [🗃 Jobs](development/jobs.md)
 * [🥷 Gangs](development/gangs.md)
 * [🚗 Vehicles](development/vehicles.md)
 
 ## Management
 
-* [🧑🎄 Users](management/users.md)
+* [🧑🎄 🧑🎄 Users](management/users.md)
 * [🔐 Roles](management/roles.md)
