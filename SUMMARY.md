@@ -4,18 +4,18 @@
 
 ## Get started
 
-* [🛠 Setup](get-started/what-we-do.md)
-* [🆙 Update](get-started/our-features.md)
+* [🛠 Setup](get-started/setup.md)
+* [🆙 Update](get-started/update.md)
 * [⚙ Configuration](get-started/configuration.md)
 
 ## Gameserver
 
-* [🗺 Live Map](gameserver/making-a-post.md)
+* [🗺 Live Map](gameserver/live-map.md)
 * [🗒 Logs](gameserver/logs.md)
 
 ## Development
 
-* [📦 Items](development/getting-set-up.md)
+* [📦 Items](development/items.md)
 * [🗃 Jobs](development/jobs.md)
 * [🥷 Gangs](development/gangs.md)
 * [🚗 Vehicles](development/vehicles.md)

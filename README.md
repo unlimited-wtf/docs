@@ -22,10 +22,10 @@ You can vist our [<mark style="color:purple;">Demo</mark> ](https://demo.unlimit
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="get-started/what-we-do.md" %}
-[what-we-do.md](get-started/what-we-do.md)
+{% content-ref url="get-started/setup.md" %}
+[setup.md](get-started/setup.md)
 {% endcontent-ref %}
 
-{% content-ref url="get-started/our-features.md" %}
-[our-features.md](get-started/our-features.md)
+{% content-ref url="get-started/update.md" %}
+[update.md](get-started/update.md)
 {% endcontent-ref %}
