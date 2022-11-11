@@ -1,5 +1,5 @@
 ---
-description: Spectre offers the following configuration options.
+description: Specte offers the following configuration options.
 ---
 
 # ⚙ Configuration

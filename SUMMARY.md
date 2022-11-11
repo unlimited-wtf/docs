@@ -22,5 +22,5 @@
 
 ## Management
 
-* [🧑🎄 🧑🎄 Users](management/users.md)
+* [🧑🎄 Users](management/users.md)
 * [🔐 Roles](management/roles.md)
