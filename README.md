@@ -1,8 +1,8 @@
 ---
 description: >-
-  Welcome to Unlimited - Spectre. The Webpanel for QB-Core you don't want to
-  miss on your FiveM Server! You will find everything you need to set your
-  webpanel here.
+  Welcome to Unlimited - Documentation. The Webpanel for QB-Core you don't want
+  to miss on your FiveM Server!  Everything you need to set your webpanel you
+  will find right here.
 layout: landing
 ---
 
@@ -10,7 +10,8 @@ layout: landing
 
 ## How can i get Spectre?
 
-Spectre is a paid resource you can get on our tebex shop. The software will be update frequently but there is no guarantee for updates except bug fixes. Updates and of course bug fixes are free of extra charge.\
+Unlimited - Spectre is a paid resource you can get on our tebex shop. To assure the best possible performance and releasing new features, the resource will be frequenlty updated which of course includes bug fixes. With your purchase you accept, that there is no regular claim for custom work or specific feature updates.  &#x20;
+
 
 
 ## Demo
@@ -20,11 +21,10 @@ You can vist our [<mark style="color:purple;">Demo</mark> ](https://demo.unlimit
 
 ## Get Started
 
-We've put together some helpful guides for you to get setup with our product quickly and easily.
+To give our customers the a great experience, here you will find any Information you need to setup the Unlimited Webpanel quickly and easily!\
+\
+Check the specific documention to find help or contact us on our [Discord](https://discord.gg/NydHGQx4SG) via Support-Ticket!\
 
-{% content-ref url="get-started/setup.md" %}
-[setup.md](get-started/setup.md)
-{% endcontent-ref %}
 
 {% content-ref url="get-started/update.md" %}
 [update.md](get-started/update.md)

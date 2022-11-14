@@ -4,7 +4,7 @@
 
 ## Get started
 
-* [🛠 Setup](get-started/setup.md)
+* [🛠 Setup](overview/what-we-do.md)
 * [🆙 Update](get-started/update.md)
 * [⚙ Configuration](get-started/configuration.md)
 
@@ -15,7 +15,7 @@
 
 ## Development
 
-* [📦 Items](development/items.md)
+* [📦 Items](fundamentals/getting-set-up/README.md)
 * [🗃 Jobs](development/jobs.md)
 * [🥷 Gangs](development/gangs.md)
 * [🚗 Vehicles](development/vehicles.md)
