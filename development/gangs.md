@@ -4,7 +4,7 @@ description: Welcome to the Gang-Managment!
 
 # 🥷 Gangs
 
-## How to manage your Gangs
+## How to manage Gangs
 
 After you set up your Webpanel, just click on "Gangs" in the list.\
 You will get access to a list of all your active gangs, showing several usefull information like the amount of grades and the job-label. All information are editable.
