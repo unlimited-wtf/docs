@@ -1,5 +1,5 @@
 ---
-description: Welcome to the Gang-Managment!
+description: Welcome to the Gang-Management!
 ---
 
 # 🥷 Gangs
