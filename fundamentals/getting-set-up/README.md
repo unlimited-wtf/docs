@@ -10,7 +10,6 @@ We focused on giving you the easiest and fastest way to develop items on your se
 
 ## **How to manage items?**
 
-The way to manage items is as easy as possible!\
 After you set up your Webpanel, just click on "items" in the webpanel.\
 You will get access to an item-list, showing all your recently added items.\
 (This is a sample disclaimer and will look different, depending on your language and added server-items!)
@@ -38,12 +37,8 @@ To manage or add an specific item, click on "Create item" or choose or search an
 
 <figure><img src="../../.gitbook/assets/items2.PNG" alt=""><figcaption><p>Item recipes</p></figcaption></figure>
 
-Since many servers using receipes to craft items, we decided to add a function to create to receipes in our webpanel. You can also add texts, animation while crafting and duration.
-
-
-
-Press "SAVE" to synchronise your item-database and add the item to your server - LIVE!\
-
+You can also add texts, animation while crafting and duration.\
+Press "SAVE" to synchronise your item-database and add the item to your server
 
 ## Delete Items
 
@@ -52,6 +47,7 @@ You will find a "DELETE"-button in the right buttom corner.\
 \
 After you clicked it, you need to confirm the removal. The item will be removed live from your Gameserver!\
 \
-**Beware:** Deleting an item can cause script-errors, if you delete a item which is neccessary for script performance. Example: If your remoce "Repair-Kits", mechanics might no longer be able to repair cars!
+**Beware:** Deleting an item can cause script-errors, if you delete an item which is neccessary for script performance. Example: If your remoce "Repair-Kits", mechanics might no longer be able to repair cars!
 
 <figure><img src="../../.gitbook/assets/deleteitem.PNG" alt=""><figcaption></figcaption></figure>
+
