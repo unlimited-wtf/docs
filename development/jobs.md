@@ -31,7 +31,7 @@ By clicking "create" your job is added live to your gameserver.
 
 To open the specific job settings, just click on the job you like to edit.
 
-<figure><img src="../.gitbook/assets/managejobs (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/managejobs.PNG" alt=""><figcaption></figcaption></figure>
 
 With our Drag-and-Drop function you can drag the rank where it belongs. \
 By clicking the "Boss"-button you set the boss rank to a grade. \
