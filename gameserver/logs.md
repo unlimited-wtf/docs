@@ -15,6 +15,9 @@ exports['unlimited-spectre']:PlayerLog(citizenId, type, message)
 
 ```
 
+Player logs need the specific player identification (QBCore: citizenId; ESX: kp) to get accepted and displayed in the player tab.\
+
+
 In the "Logs" section you can select which logs you want to display. \
 Logs-access can be managed in the role configurations.
 
