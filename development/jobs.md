@@ -24,7 +24,7 @@ Dynamicly registered jobs from any other script (e.g. job-creators) wont get dis
 
 To manage or add an specific job, click on "Create Job" or choose an existing job from the list to get access on the job settings.&#x20;
 
-<figure><img src="../.gitbook/assets/job_options.PNG" alt=""><figcaption><p>Job options (Sample)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/createuser.PNG" alt=""><figcaption><p>Job options (Sample)</p></figcaption></figure>
 
 | Configurable Information             | Configurable Functions                              |
 | ------------------------------------ | --------------------------------------------------- |

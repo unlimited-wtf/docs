@@ -11,6 +11,8 @@
 ## Gameserver
 
 * [🗺 Live Map](gameserver/live-map.md)
+* [🎮 Players](gameserver/players.md)
+* [🚗 Vehicles](gameserver/vehicles.md)
 * [🗒 Logs](gameserver/logs.md)
 
 ## Development
@@ -18,7 +20,6 @@
 * [📦 Items](fundamentals/getting-set-up/README.md)
 * [🗃 Jobs](development/jobs.md)
 * [🥷 Gangs](development/gangs.md)
-* [🚗 Vehicles](development/vehicles.md)
 
 ## Management
 

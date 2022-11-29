@@ -1,8 +1,8 @@
 ---
 description: >-
-  Welcome to Unlimited - Documentation. The Webpanel for QB-Core you don't want
-  to miss on your FiveM Server!  Everything you need to set your webpanel you
-  will find right here.
+  Welcome to Unlimited - Documentation. The Webpanel you don't want to miss on
+  your FiveM Server!  Everything you need to set your webpanel you will find
+  right here.
 layout: landing
 ---
 

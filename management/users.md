@@ -10,7 +10,7 @@ description: Welcome to the Users Management
 
 ## How to create a User
 
-<figure><img src="../.gitbook/assets/job_options.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/createuser.PNG" alt=""><figcaption></figcaption></figure>
 
 ## User settings
 
