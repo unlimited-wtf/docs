@@ -4,28 +4,25 @@ description: All you need to know about the item section.
 
 # 📦 Items
 
-The **Unlimited Webpanel** offers users the unique possibiliy to create, change or delete items of your server. All changes to the items will go live instantly!&#x20;
+The **Unlimited Webpanel** offers users the unique possibiliy to create, change or delete item definitions of your server. All changes to the items will go live instantly!&#x20;
 
-We focused on giving you the easiest and fastest way to develop items on your server! In combination with our beautiful layout, we created a tool everyone will be able to work with              - without needing any .lua-knowledge or root-access!
+We focused on giving you the easiest and fastest way to develop items on your server. In combination with our beautiful layout, we created a tool everyone will be able to work with              - without needing any .lua-knowledge or root-access!&#x20;
 
 ## **How to manage items?**
 
-After you set up your Webpanel, just click on "items" in the webpanel.\
-You will get access to an item-list, showing all your recently added items.\
-(This is a sample disclaimer and will look different, depending on your language and added server-items!)
+Navigate to the Development - Items section. You can a list of all items from your Shared/Items.lua file in qb-core.
 
-## Item List
+{% hint style="info" %}
+Dynamicly registered items from any other script (e.g. item-creators) wont get displayed!
+{% endhint %}
 
-<figure><img src="../../.gitbook/assets/itemübersicht.PNG" alt=""><figcaption><p>Item List (sample)</p></figcaption></figure>
-
-By seeing the items-overview you already succeed on your first step.\
-The system is running and now you can go forward to manage your items!
+<figure><img src="../../.gitbook/assets/itemübersicht.PNG" alt=""><figcaption><p>Item List (Sample)</p></figcaption></figure>
 
 ## Adding Items
 
-To manage or add an specific item, click on "Create item" or choose or search an existing item out of the list to get access on the item settings.
+To manage or add an specific item, click on "Create item" or choose an existing item out of the list to get access on the item settings.&#x20;
 
-<figure><img src="../../.gitbook/assets/items.PNG" alt=""><figcaption><p>Item Settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/item_options.PNG" alt=""><figcaption></figcaption></figure>
 
 | Configurable Information                                                               | Configurable Functions                                            |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
@@ -33,17 +30,23 @@ To manage or add an specific item, click on "Create item" or choose or search an
 
 \*item-images need to be added seperatly or can be set by name if they exist already on your server.
 
+## Custom Variables
+
+We also provide the option to create custom variables. Supported datatypes are `String`, `Number` and `Boolean`. Spectre checks for duplicated keys and wont allow them. [Default keys](./#adding-items) are also protected.
+
+<figure><img src="../../.gitbook/assets/item_custom_vars.PNG" alt=""><figcaption><p>Item custom variables (Sample)</p></figcaption></figure>
+
 ## Adding Receipes
 
 <figure><img src="../../.gitbook/assets/items2.PNG" alt=""><figcaption><p>Item recipes</p></figcaption></figure>
 
-You can also add texts, animation while crafting and duration.\
-Press "SAVE" to synchronise your item-database and add the item to your server
+You can also utilize the default QBCore crafting with custom texts, animation while crafting and crafting duration.
+
+Press "SAVE" to synchronise your item-database and add the item to your server.
 
 ## Delete Items
 
-If you want to delete a specific item, just search for it an select it.\
-You will find a "DELETE"-button in the right buttom corner.\
+If you want to delete a specific item, just search for it an select it. You will find a "DELETE"-button in the right buttom corner. This options requires the `Item:Edit` permission.\
 \
 After you clicked it, you need to confirm the removal. The item will be removed live from your Gameserver!\
 \
