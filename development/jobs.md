@@ -1,5 +1,5 @@
 ---
-description: Welcome to the Jobs-Management!
+description: All you need to know about the job section.
 ---
 
 # 🗃 Jobs
