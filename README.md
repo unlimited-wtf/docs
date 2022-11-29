@@ -26,6 +26,10 @@ To give our customers the a great experience, here you will find any Information
 Check the specific documention to find help or contact us on our [Discord](https://discord.gg/NydHGQx4SG) via Support-Ticket!\
 
 
+{% content-ref url="overview/what-we-do.md" %}
+[what-we-do.md](overview/what-we-do.md)
+{% endcontent-ref %}
+
 {% content-ref url="get-started/update.md" %}
 [update.md](get-started/update.md)
 {% endcontent-ref %}
