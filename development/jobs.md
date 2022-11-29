@@ -12,20 +12,19 @@ With **Spectre** you gain the ability to manage your jobs like never before and 
 
 ## How to manage Jobs
 
-After you set up your Webpanel, just click on "Jobs" in the list.\
-You will get access to a list of all your active jobs, showing several usefull information like the amount of grades and the job-label. All information are editable.
+Navigate to the Development - Jobs section. You get a list of all jobs from your Shared/Jobs.lua file in `qb-core`. You will get access to a list of all your active jobs, showing several usefull information like the amount of grades and the job-label. All information are editable.&#x20;
 
-<figure><img src="../.gitbook/assets/jobs.PNG" alt=""><figcaption><p>Job List (sample)</p></figcaption></figure>
+{% hint style="info" %}
+Dynamicly registered jobs from any other script (e.g. job-creators) wont get displayed!
+{% endhint %}
 
-## How to create a Job
+<figure><img src="../.gitbook/assets/jobs.PNG" alt=""><figcaption><p>Job List (Sample)</p></figcaption></figure>
 
-You can easy create a job by clicking "Create Job"-button in the jobs-list.\
-The job creation focussed on the most important components of a job: name and label.
+## Adding/Edit Jobs
 
-<figure><img src="../.gitbook/assets/createjob.PNG" alt=""><figcaption></figcaption></figure>
+To manage or add an specific job, click on "Create Job" or choose an existing job from the list to get access on the job settings.&#x20;
 
-After you created the job, you can add grades, set loans and specifiy duty options.\
-By clicking "create" your job is added live to your gameserver.
+<figure><img src="../.gitbook/assets/createjob.PNG" alt=""><figcaption><p>Job options (Sample)</p></figcaption></figure>
 
 ## Job Settings
 

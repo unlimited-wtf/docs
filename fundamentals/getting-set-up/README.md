@@ -10,7 +10,7 @@ We focused on giving you the easiest and fastest way to develop items on your se
 
 ## **How to manage items?**
 
-Navigate to the Development - Items section. You can a list of all items from your Shared/Items.lua file in qb-core.
+Navigate to the Development - Items section. You get a list of all items from your Shared/Items.lua file in `qb-core`.
 
 {% hint style="info" %}
 Dynamicly registered items from any other script (e.g. item-creators) wont get displayed!
@@ -18,11 +18,11 @@ Dynamicly registered items from any other script (e.g. item-creators) wont get d
 
 <figure><img src="../../.gitbook/assets/itemübersicht.PNG" alt=""><figcaption><p>Item List (Sample)</p></figcaption></figure>
 
-## Adding Items
+## Adding/Edit Items
 
-To manage or add an specific item, click on "Create item" or choose an existing item out of the list to get access on the item settings.&#x20;
+To manage or add an specific item, click on "Create item" or choose an existing item from the list to get access on the item settings.&#x20;
 
-<figure><img src="../../.gitbook/assets/item_options.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/item_options.PNG" alt=""><figcaption><p>Item options (Sample)</p></figcaption></figure>
 
 | Configurable Information                                                               | Configurable Functions                                            |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
@@ -38,7 +38,7 @@ We also provide the option to create custom variables. Supported datatypes are `
 
 ## Adding Receipes
 
-<figure><img src="../../.gitbook/assets/items2.PNG" alt=""><figcaption><p>Item recipes</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/items2.PNG" alt=""><figcaption><p>Item recipe (Sample)</p></figcaption></figure>
 
 You can also utilize the default QBCore crafting with custom texts, animation while crafting and crafting duration.
 
