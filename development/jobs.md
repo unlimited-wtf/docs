@@ -24,24 +24,31 @@ Dynamicly registered jobs from any other script (e.g. job-creators) wont get dis
 
 To manage or add an specific job, click on "Create Job" or choose an existing job from the list to get access on the job settings.&#x20;
 
-<figure><img src="../.gitbook/assets/createjob.PNG" alt=""><figcaption><p>Job options (Sample)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/job_options.PNG" alt=""><figcaption><p>Job options (Sample)</p></figcaption></figure>
 
-## Job Settings
+| Configurable Information             | Configurable Functions                              |
+| ------------------------------------ | --------------------------------------------------- |
+| <ul><li>name</li><li>label</li></ul> | <ul><li>default duty</li><li>off duty pay</li></ul> |
 
-To open the specific job settings, just click on the job you like to edit.
+## Custom Variables
 
-<figure><img src="../.gitbook/assets/managejobs.PNG" alt=""><figcaption></figcaption></figure>
+We also provide the option to create custom variables. Supported datatypes are `String`, `Number` and `Boolean`. Spectre checks for duplicated keys and wont allow them. [Default keys](jobs.md#adding-edit-jobs) are also protected.
 
-With our Drag-and-Drop function you can drag the rank where it belongs. \
-By clicking the "Boss"-button you set the boss rank to a grade. \
-This status is limited to one grade only. \
+<figure><img src="../.gitbook/assets/job_custom_vars.PNG" alt=""><figcaption><p>Job custom variables (Sample)</p></figcaption></figure>
 
+## Grades
+
+Add/Delete job grades. With the left drag handle you can reorder your grades fast and effortless. Each job needs at least one grade.
+
+By clicking the "Boss"-button you set the boss rank to a grade. This status is limited to one grade only.&#x20;
+
+<figure><img src="../.gitbook/assets/job_grades.PNG" alt=""><figcaption><p>Job grades (Sample)</p></figcaption></figure>
 
 ## Delete a Job
 
-Select the job you like to delete and simply click "DELETE".
-
-The Job and all its grades will be removed and deleted!\
+If you want to delete a specific job, just search for it an select it. You will find a "DELETE"-button in the right buttom corner. This options requires the `Job:Edit` permission.\
+\
+After you clicked it, you need to confirm the removal. The job will be removed live from your Gameserver!\
 \
 **Beware:** Since you do the changes live on your server, deleting a job might can cause some troubles. If you delete a stash or garage you might delete items or avoid access to cars.
 

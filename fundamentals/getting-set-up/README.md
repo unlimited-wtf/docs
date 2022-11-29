@@ -26,7 +26,7 @@ To manage or add an specific item, click on "Create item" or choose an existing 
 
 | Configurable Information                                                               | Configurable Functions                                            |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| <ul><li>label</li><li>name</li><li>description</li><li>image*</li><li>weight</li></ul> | <ul><li>usable</li><li>unique</li><li>close after usage</li></ul> |
+| <ul><li>name</li><li>label</li><li>description</li><li>image*</li><li>weight</li></ul> | <ul><li>usable</li><li>unique</li><li>close after usage</li></ul> |
 
 \*item-images need to be added seperatly or can be set by name if they exist already on your server.
 
