@@ -1,6 +1,16 @@
+---
+description: Unlimited - Live-Map
+---
+
 # 🗺 Live Map
 
+## Features
+
+The live-map is tracking all players and vehicles with their location LIVE, offering a very simple and unique way to manage and support your server.
+
 <figure><img src="../.gitbook/assets/Bild_2022-11-30_224520037.png" alt=""><figcaption><p>Live-Map</p></figcaption></figure>
+
+Choose your favorite map-layout.&#x20;
 
 <div>
 
@@ -16,7 +26,11 @@
 
 </div>
 
+Quick player selection will zoom he view to the players location. (Same for vehicles!)
+
 <figure><img src="../.gitbook/assets/mapplayers.png" alt=""><figcaption></figcaption></figure>
+
+Right-clicking a player offers some additional quick-actions. (Same for vehicles!)
 
 <figure><img src="../.gitbook/assets/mapplayer.jpg" alt=""><figcaption><p>Player Options</p></figcaption></figure>
 
