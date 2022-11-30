@@ -35,7 +35,8 @@ Choose your favorite map-layout to improve your sight.
 ## Select a Player or Vehicle
 
 Quick player selection will zoom he view to the players location. (Same for vehicles!)\
-The zoom will automatically follow the selected object while moving.
+The zoom will automatically follow the selected object while moving.\
+By clicking the object again the view is released again.
 
 <figure><img src="../.gitbook/assets/mapplayers.png" alt=""><figcaption></figcaption></figure>
 
