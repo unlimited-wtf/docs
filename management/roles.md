@@ -19,7 +19,7 @@ You can add an infinte amount of roles, granting each role specific permissons b
 Be carefull with granting permissions due to possible abuse!
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/createrole.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/permissions2.png" alt=""><figcaption><p>Create Role</p></figcaption></figure>
 
 ## Role settings
 
@@ -36,7 +36,7 @@ Permissions are separated in three categories - Gameserver, Development & Manage
 Management-permissions should only be granted to admins.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/editrole.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/permissions.png" alt=""><figcaption></figcaption></figure>
 
 ## Delete a Role
 
