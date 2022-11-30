@@ -6,7 +6,7 @@ description: This section will guide you through the setup process.
 
 ## Download resource
 
-After your purchase you will recieve the resource via the FiveM Keymaster. Inside the section "Granted Assets" you will find an asset named "Unlimited.wtf - Spectre".
+After your purchase you will recieve the resource via the FiveM Keymaster. Inside the section "Granted Assets" you will find an asset named \[QBCore] Unlimited.wtf - Spectre.
 
 After placing the downloaded resource in your resource directory you can step through this list to get started.
 
