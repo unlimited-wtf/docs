@@ -27,7 +27,9 @@ To manage or add an specific item, click on "Create item" or choose an existing 
 You now can also add item-images up to 5 MB LIVE to your server.  \
 See if the items fits in the frame by checking the preview.
 
-<figure><img src="../../.gitbook/assets/Unlimited-1.gif" alt=""><figcaption><p>Adding an image</p></figcaption></figure>
+{% embed url="https://cdn.unlimited.wtf/docs/ee2f0e54f7174f2b0d857b46697276d1.mp4" %}
+Adding an image
+{% endembed %}
 
 | Configurable Information                                                               | Configurable Functions                                            |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
