@@ -6,7 +6,7 @@ description: Unlimited - Live-Map
 
 ## About the Live-Map
 
-The live-map is tracking all players and vehicles with their location LIVE, offering a very simple and unique way to manage and support your server. You can zoom in- & out for a more detailed overview of players and vehicles location.&#x20;
+The live-map is tracking all players and vehicles with their location LIVE, offering a very simple and unique way to manage and support your server. You can zoom in and out for a more detailed overview of players and vehicles location.&#x20;
 
 {% hint style="info" %}
 You can simply filter or change the map-layout like prefered.
