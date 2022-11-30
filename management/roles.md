@@ -6,6 +6,9 @@ description: Welcome to the Role Management
 
 ## How to manage Roles
 
+To give your team access to Unlimited - Spectre, you need to give permissions to all users.\
+Permissions can be assigned to users by creating a specific role which can be edited to the need of the users tasks.&#x20;
+
 <figure><img src="../.gitbook/assets/roles.png" alt=""><figcaption></figcaption></figure>
 
 ## How to create a Role
