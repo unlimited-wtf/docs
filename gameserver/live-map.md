@@ -28,13 +28,14 @@ Choose your favorite map-layout to improve your sight.
 
  
 
-<figure><img src="../.gitbook/assets/satelite (3).png" alt=""><figcaption><p>Saltelite</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/satelite (3).png" alt=""><figcaption><p>Satelite</p></figcaption></figure>
 
 </div>
 
 ## Select a Player or Vehicle
 
-Quick player selection will zoom he view to the players location. (Same for vehicles!)
+Quick player selection will zoom he view to the players location. (Same for vehicles!)\
+The zoom will automatically follow the selected object while moving.
 
 <figure><img src="../.gitbook/assets/mapplayers.png" alt=""><figcaption></figcaption></figure>
 
