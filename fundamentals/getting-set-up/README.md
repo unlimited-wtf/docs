@@ -22,7 +22,12 @@ Dynamicly registered items from any other script (e.g. item-creators) wont get d
 
 To manage or add an specific item, click on "Create item" or choose an existing item from the list to get access on the item settings.&#x20;
 
-<figure><img src="../../.gitbook/assets/item_options.PNG" alt=""><figcaption><p>Item options (Sample)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/items.png" alt=""><figcaption></figcaption></figure>
+
+You now can also add item-images up to 5 MB LIVE to your server.  \
+See if the items fits in the frame by checking the preview.
+
+<figure><img src="../../.gitbook/assets/Unlimited-1.gif" alt=""><figcaption><p>Adding an image</p></figcaption></figure>
 
 | Configurable Information                                                               | Configurable Functions                                            |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
