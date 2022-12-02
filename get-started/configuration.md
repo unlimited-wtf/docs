@@ -10,7 +10,7 @@ description: Spectre offers the following configuration options.
 set unlWebPort [Int]                  // sets webpanel serving port @default: 3000
 
 
-set unlUsedInventory [String]         // sets used inventory @default: qb-inventory
+set unlUsedInventory [String]         // sets used inventory @default: qb-inventory*
 set unlQBName [String]                // sets qb-core resource name @default: qb-core
 set unlQBObject [String]              // sets QBCore object name @default: QBCore
 set unlQBShared [String]              // sets QBCore shared object name @default: QBShared
@@ -27,3 +27,4 @@ set unlWebDiscordHook [WebhookUrl]    // sets Web Logger Discord-Webhook
 
 ```
 
+_\*folder structure and resource structure must follow the qb-inventory convention_
