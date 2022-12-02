@@ -9,6 +9,12 @@ description: Spectre offers the following configuration options.
 
 set unlWebPort [Int]                  // sets webpanel serving port @default: 3000
 
+
+set unlUsedInventory [String]         // sets used inventory @default: qb-inventory
+set unlQBName [String]                // sets qb-core resource name @default: qb-core
+set unlQBObject [String]              // sets QBCore object name @default: QBCore
+set unlQBShared [String]              // sets QBCore shared object name @default: QBShared
+
 set unlWebDashInterval [Int]          // sets dashboard refresh interval @default 5000
 set unlWebMapInterval [Int]           // sets map refresh interval @default: 1250
 
