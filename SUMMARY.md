@@ -7,6 +7,7 @@
 * [🛠 Setup](overview/what-we-do.md)
 * [🆙 Update](get-started/update.md)
 * [⚙ Configuration](get-started/configuration.md)
+* [🏳🌈 Translation](get-started/translation.md)
 
 ## Gameserver
 
