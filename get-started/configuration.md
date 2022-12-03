@@ -74,7 +74,7 @@ Just a few steps are needed:
 
 1. Upload the content of html to your webspace/server
 2. Edit `assets/externalHosting.js` to fit your requirements\
-   (in most cases adjusting the host variable is sufficient)
+   (in most cases adjusting the host variable is sufficient - host: "https://backend.unlimited.wtf")
 
 {% hint style="info" %}
 If you host your frontend externally, its recommended to disable serving your frontend via gamerserver by setting config/convar `unlDisableServe` to true
