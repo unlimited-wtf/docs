@@ -29,6 +29,8 @@ You can change the used port before launch with the convar\
 
 <figure><img src="../.gitbook/assets/setup_token.PNG" alt="Setup Token"><figcaption><p>Setup token</p></figcaption></figure>
 
-Thats it! Installation was successful if you can now log in. For reinstall, you can stop the resource and delete the unlWeb folder inside the resource. After deleteing, you can start it again.
+Thats it! Installation was successful if you can now log in. For the best experience also check our [Configuration](../get-started/configuration.md) tab (e.g. change used inventory).
+
+For reinstall, you can stop the resource and delete the unlWeb folder inside the resource. After deleteing, you can start it again.
 
 For help you can also create a ticket on our discord.
