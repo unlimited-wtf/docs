@@ -1,37 +1,8 @@
 ---
-description: Spectre can be configured via the provided config.json or by setting convars.
+description: Spectre offers the following configuration options.
 ---
 
 # ⚙ Configuration
-
-## Config
-
-```
-// config.json
-
-{
-  "port": "3000",
-  "unlDisableServe": "false",
-
-  "QBName": "qb-core",
-  "QBObject": "QBCore",
-  "QBShared": "QBShared",
-
-  "usedInventory": "qb-inventory",
-
-  "unlDiscordHook": "false",
-  "unlGameDiscordHook": "false",
-  "unlPlayerDiscordHook": "false",
-  "unlDevDiscordHook": "false",
-  "unlWebDiscordHook": "false",
-
-  "dashboardInterval": "5000",
-  "mapInterval": "1250"
-}
-
-```
-
-## Convars
 
 ```js-templates
 // server.cfg
@@ -57,27 +28,3 @@ set unlWebDiscordHook [WebhookUrl]    // sets Web Logger Discord-Webhook
 ```
 
 _\*folder structure and resource structure must follow the qb-inventory convention_
-
-## External frontend
-
-Spectre offers the option to host the frontend externally.&#x20;
-
-This requires sharing the same domain on frontend and backend.
-
-```
-// example
-
-frontend:    https://frontend.unlimited.wtf
-
-backend:     https://backend.unlimited.wtf
-```
-
-Just a few steps are needed:
-
-1. Upload the content of html to your webspace/server
-2. Edit `assets/externalHosting.js` to fit your requirements\
-   (in most cases adjusting the host variable is sufficient)
-
-{% hint style="info" %}
-If you host your frontend externally, its recommended to disable serving your frontend via gamerserver by setting config/convar `unlDisableServe` to true
-{% endhint %}
