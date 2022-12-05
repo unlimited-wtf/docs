@@ -1,6 +1,6 @@
 # ⚙ Configuration
 
-Spectre can be configured via the provided `config.json` or by setting convars. Convars takes precedence over the `config.json`.
+Spectre can be configured via the provided `config.json` or by setting convars (unless otherwise stated). Convars takes precedence over the `config.json`.
 
 ## Config
 
@@ -10,10 +10,15 @@ Spectre can be configured via the provided `config.json` or by setting convars. 
 {
   "port": "3000",
   "unlDisableServe": "false",
+  "unlMySQLSessions": "false",
 
   "QBName": "qb-core",
   "QBObject": "QBCore",
   "QBShared": "QBShared",
+  
+  // garage variables arent support by convars
+  "vehGarageColumn": "garage",
+  "vehStateColumn": "state",
 
   "usedInventory": "qb-inventory",
 
@@ -35,7 +40,8 @@ Spectre can be configured via the provided `config.json` or by setting convars. 
 // server.cfg
 
 set unlWebPort [Int]                  // sets webpanel serving port @default: 3000
-
+set unlDisableServe [Boolean]         // enalbe/disable serving client files
+set unlMySQLSessions [Boolean]        // enable/disable persistent sessions [24h]
 
 set unlUsedInventory [String]         // sets used inventory @default: qb-inventory*
 set unlQBName [String]                // sets qb-core resource name @default: qb-core
