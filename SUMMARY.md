@@ -26,3 +26,4 @@
 
 * [🧑🎄 Users](management/users.md)
 * [🔐 Roles](management/roles.md)
+* [⚙ Settings](management/settings.md)
