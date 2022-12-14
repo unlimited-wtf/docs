@@ -16,13 +16,12 @@ Spectre can be configured via the provided `config.json` or by setting convars (
   "QBObject": "QBCore",
   "QBShared": "QBShared",
   
-  // garage variables arent support by convars
+  // garage variables arent supported by convars
   "vehGarageColumn": "garage",
   "vehStateColumn": "state",
 
   "usedInventory": "qb-inventory",
   "maxPlayerSlots": "41",
-  "maxPlayerWeight": "100000",
 
   "unlDiscordHook": "false",
   "unlGameDiscordHook": "false",
