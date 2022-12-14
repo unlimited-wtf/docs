@@ -46,7 +46,6 @@ set unlMySQLSessions [Boolean]        // enable/disable persistent sessions [24h
 
 set unlUsedInventory [String]         // sets used inventory @default: qb-inventory*
 set unlMaxPlayerSlots [Int]           // sets the inventory view player slots count @default: 41
-set unlMaxPlayerWeight [Int]          // sets the max weight player can carry for inventory view @default: 100000
 set unlQBName [String]                // sets qb-core resource name @default: qb-core
 set unlQBObject [String]              // sets QBCore object name @default: QBCore
 set unlQBShared [String]              // sets QBCore shared object name @default: QBShared
