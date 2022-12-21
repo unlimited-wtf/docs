@@ -15,10 +15,6 @@ Spectre can be configured via the provided `config.json` or by setting convars (
   "QBName": "qb-core",
   "QBObject": "QBCore",
   "QBShared": "QBShared",
-  
-  // garage variables arent supported by convars
-  "vehGarageColumn": "garage",
-  "vehStateColumn": "state",
 
   "usedInventory": "qb-inventory",
   "maxPlayerSlots": "41",
@@ -31,6 +27,13 @@ Spectre can be configured via the provided `config.json` or by setting convars (
 
   "dashboardInterval": "5000",
   "mapInterval": "1250"
+  
+  // non convar config settings
+  "vehGarageColumn": "garage",
+  "vehStateColumn": "state",
+  
+  "customHandleDeadEvent": "false",
+  "customHandleCuffedEvent": "false"
 }
 
 ```
