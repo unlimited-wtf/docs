@@ -12,6 +12,7 @@ Our frontend supports multiple languages. If you want your native language suppo
 | et       | Lil Dolbajoba#4276 |
 | de       | Unlimited          |
 | dk       | Mads Olsen#5979    |
+| pl       | Seba#7740          |
 
 
 
