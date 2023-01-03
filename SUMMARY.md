@@ -9,6 +9,10 @@
 * [⚙ Configuration](get-started/configuration.md)
 * [🏳🌈 Translation](get-started/translation.md)
 
+## Guides
+
+* [🦇 Pterodactyl](guides/pterodactyl.md)
+
 ## Gameserver
 
 * [🗺 Live Map](gameserver/live-map.md)
