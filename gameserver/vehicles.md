@@ -26,3 +26,5 @@ The delete function will completely delete the vehicle from the gameserver.\
 Before deleting a vehicle you have to confirm the action.
 
 <figure><img src="../.gitbook/assets/Bild_2023-01-04_190139605.png" alt=""><figcaption></figcaption></figure>
+
+_Hint: This resource supports AdvancedParking!_
