@@ -18,7 +18,7 @@ Quick actions for vehicles enable supporting functions even if you are not conne
 <figure><img src="../.gitbook/assets/Screenshot 2023-01-04 185723.png" alt=""><figcaption></figcaption></figure>
 
 Changing owner will transfer ownership to a selected player. \
-A list of all registerd players is displayed and players can be searched.
+A list of all registerd players is displayed and players can be searched and selected.
 
 <figure><img src="../.gitbook/assets/Clipboard01.jpg" alt=""><figcaption></figcaption></figure>
 
