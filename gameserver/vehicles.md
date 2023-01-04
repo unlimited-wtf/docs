@@ -5,6 +5,8 @@ description: Welcome to Vehicle Management
 # 🚗 Vehicles
 
 With our vehicle list you have an overview on all player-owned vehicles.\
+All data is pulled from `vehicle.lua` and is synchronize with your actions.
+
 Status of cars is displayed by the garage-status and most important vehicle information are listed.\
 We added a search function for plate, model or owner-id.
 
