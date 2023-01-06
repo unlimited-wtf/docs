@@ -13,7 +13,7 @@ After placing the downloaded resource in your resource directory you can step th
 
 
 {% hint style="danger" %}
-**Always backup your QBCore Shared folder before using this resource! Spectre writes into the files "items.lua", "jobs.lua" and "gangs.lua".**
+**Always backup your QBCore Shared folder before using this resource! Spectre writes into the files "items.lua", "jobs.lua", "gangs.lua" and "vehicle.lua".**
 {% endhint %}
 
 {% hint style="info" %}
