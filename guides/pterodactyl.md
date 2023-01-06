@@ -31,7 +31,7 @@ Once you restart the server you can continue on with the normal Spectre setup pr
 
 First step make a new file in your /etc/nginx/sites-enabled folder.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>nginx folder</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>NGINX folder</p></figcaption></figure>
 
 Once you have done this in the file you want to put the following.
 
