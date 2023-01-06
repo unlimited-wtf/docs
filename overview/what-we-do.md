@@ -18,7 +18,7 @@ After placing the downloaded resource in your resource directory you can step th
 
 {% hint style="info" %}
 You can change the used port before launch with the convar\
-`unlWebPort [port]`inside your server.cfg
+`unlWebPort [port]`inside your server.cfg or inside the config.json
 {% endhint %}
 
 1. Start the resource after `qb-core`.

@@ -6,7 +6,7 @@ description: Adjust your Pterodactyl to allow using Spectre.
 
 _by Peter#3261_
 
-__
+## Port
 
 You will need setup port allocation first on the respective node for your FiveM server
 
@@ -25,3 +25,18 @@ Once you’ve done this you **MUST** restart the full docker server container.
 ![](<../.gitbook/assets/image (1).png>)
 
 Once you restart the server you can continue on with the normal Spectre setup process and you will be able to visit <mark style="color:blue;">http://IP:PORT</mark>.\
+
+
+## Reverse Proxy NGINX
+
+First step make a new file in your /etc/nginx/sites-enabled folder.
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>nginx folder</p></figcaption></figure>
+
+Once you have done this in the file you want to put the following.
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>NGINX conf file example</p></figcaption></figure>
+
+Once you have done this run - systemctl restart nginx from SSH terminal.
+
+Then visit your subdomain and voila! You now have a basic nginx reverse proxy setup for spectre.
