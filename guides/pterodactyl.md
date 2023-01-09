@@ -22,7 +22,7 @@ You will want to select the Spectre Panel port as an assigned additional port, o
 
 Once you’ve done this you **MUST** restart the full docker server container.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 Once you restart the server you can continue on with the normal Spectre setup process and you will be able to visit <mark style="color:blue;">http://IP:PORT</mark>.\
 

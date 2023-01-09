@@ -11,6 +11,7 @@
 
 ## Guides
 
+* [🎮 Gameservers](guides/gameservers.md)
 * [🦇 Pterodactyl](guides/pterodactyl.md)
 
 ## Gameserver
