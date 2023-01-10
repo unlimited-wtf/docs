@@ -35,6 +35,10 @@ const e={backend:"/unlimited-spectre",base:"",webHistory:"/unlimited-spectre",is
 
 ```
 
+Afterwards you can access your panel at:
+
+`http://serverip:serverport/unlimited-spectre/`
+
 {% hint style="info" %}
 Replace `ulimited-spectre with your resource name!`
 {% endhint %}
