@@ -23,3 +23,18 @@ Inside our config.json now adjust your settings:
 ```
 
 Your webpanel is now accessable on your `http:://serverip:30432` (replace 30432 with your Additional Port).
+
+## General
+
+We always offer the option, to run the webpanel on your FiveM Port. This option is often limited by your gameserver provider with Rating Limits (limiting requests).&#x20;
+
+To use this option, you need to addjust your `externalHosting.js` file inside `unlimited-spectre/html/assets`
+
+```
+const e={backend:"/unlimited-spectre",base:"",webHistory:"/unlimited-spectre",isSubPath:"/unlimited-spectre",socketPath:"/unlimited-spectre/socket.io"};export{e};
+
+```
+
+{% hint style="info" %}
+Replace `ulimited-spectre with your resource name!`
+{% endhint %}
