@@ -16,7 +16,7 @@ You need to navigate to your gameserver settings in the zap webpanel. At the bot
 
 Check the "Additional Port" sections. Choose one free port.
 
-Inside our config.json now adjust your settings:
+Inside our `config.json` now adjust your settings:
 
 ```
 "port": "30432"
