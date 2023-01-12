@@ -6,13 +6,15 @@ description: Missing your language?
 
 Our frontend supports multiple languages. If you want your native language supported, get in touch with us and we provide you the template.
 
-| language | credits            |
-| -------- | ------------------ |
-| en       | Unlimited          |
-| et       | Lil Dolbajoba#4276 |
-| de       | Unlimited          |
-| dk       | Mads Olsen#5979    |
-| pl       | Seba#7740          |
+| language | credits             |
+| -------- | ------------------- |
+| en       | Unlimited           |
+| et       | Lil Dolbajoba#4276  |
+| de       | Unlimited           |
+| dk       | Mads Olsen#5979     |
+| pl       | Seba#7740           |
+| pt       | beastpt#0001        |
+| ta       | THEGAMER\_ZONE#8069 |
 
 
 
