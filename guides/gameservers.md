@@ -8,7 +8,7 @@ description: >-
 
 Mostly gameservers dont offer the additonal port, spectre needs. Check the following guides to use our webpanel on your gameserver.
 
-## ZAP-Hosting
+## [ZAP-Hosting](https://zap-hosting.com/)
 
 You need to navigate to your gameserver settings in the zap webpanel. At the bottom of the settings you will find following part.
 
@@ -23,6 +23,26 @@ Inside our `config.json` now adjust your settings:
 ```
 
 Your webpanel is now accessable on your `http:://serverip:30432` (replace 30432 with your Additional Port).
+
+## [Vibegames](https://vibegames.com/)
+
+You need to add an extra port in your control panel.
+
+In the control panel, click on Network.
+
+<figure><img src="../.gitbook/assets/5QeyeLR.png" alt=""><figcaption><p>Navigate to network</p></figcaption></figure>
+
+If you are allowed to add an extra port/allocation you can press <mark style="color:purple;">CREATE ALLOCATION</mark>.
+
+<figure><img src="../.gitbook/assets/zu23qSx.gif" alt=""><figcaption><p>Create new allocation</p></figcaption></figure>
+
+Inside our `config.json` now adjust your settings:
+
+```
+"port": "65348"
+```
+
+Your webpanel is now accessable on your `http:://serverip:65348` (replace 65348 with your new created allocation).
 
 ## General
 
