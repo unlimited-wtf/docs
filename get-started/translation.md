@@ -8,10 +8,11 @@ Our frontend supports multiple languages. If you want your native language suppo
 
 | language | credits             |
 | -------- | ------------------- |
-| en       | Unlimited           |
-| et       | Lil Dolbajoba#4276  |
 | de       | Unlimited           |
 | dk       | Mads Olsen#5979     |
+| en       | Unlimited           |
+| et       | Lil Dolbajoba#4276  |
+| no       | DannyJ#1718         |
 | pl       | Seba#7740           |
 | pt       | beastpt#0001        |
 | ta       | THEGAMER\_ZONE#8069 |

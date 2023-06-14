@@ -15,10 +15,27 @@ Spectre can be configured via the provided `config.json` or by setting convars (
   "QBName": "qb-core",
   "QBObject": "QBCore",
   "QBShared": "QBShared",
+  
+  "vehGarageColumn": "garage",
+  "vehStateColumn": "state",
+  "vehTables": [
+    {
+      "table": "trunkitems",
+      "column": "plate"
+    },
+    {
+      "table": "gloveboxitems",
+      "column": "plate"
+    }
+  ],
+
+  "additionalMoneyTypes": {},
 
   "usedInventory": "qb-inventory",
   "maxPlayerSlots": "41",
 
+  "disableWeaponLogs": "false",
+  "excludeWeaponLogsFromDiscord": "false",
   "unlDiscordHook": "false",
   "unlGameDiscordHook": "false",
   "unlPlayerDiscordHook": "false",
@@ -28,7 +45,6 @@ Spectre can be configured via the provided `config.json` or by setting convars (
   "dashboardInterval": "5000",
   "mapInterval": "1250"
   
-  // non convar config settings
   "vehGarageColumn": "garage",
   "vehStateColumn": "state",
   
@@ -84,7 +100,8 @@ backend:     https://backend.unlimited.wtf
 Just a few steps are needed:
 
 1. Upload the content of html to your webspace/server
-2. Edit `assets/externalHosting.js` to fit your requirements\
+2. Edit `index.html` by changing `./` to only `/` in the filepaths (otherwise page reload will fail)
+3. Edit `assets/externalHosting.js` to fit your requirements\
    (in most cases adjusting the host variable is sufficient - host: "https://backend.unlimited.wtf")
 
 {% hint style="info" %}
