@@ -6,16 +6,17 @@ description: Missing your language?
 
 Our frontend supports multiple languages. If you want your native language supported, get in touch with us and we provide you the template.
 
-| language | credits             |
-| -------- | ------------------- |
-| de       | Unlimited           |
-| dk       | Mads Olsen#5979     |
-| en       | Unlimited           |
-| et       | Lil Dolbajoba#4276  |
-| no       | DannyJ#1718         |
-| pl       | Seba#7740           |
-| pt       | beastpt#0001        |
-| ta       | THEGAMER\_ZONE#8069 |
+| language | credits        |
+| -------- | -------------- |
+| de       | Unlimited      |
+| dk       | mads3n         |
+| en       | Unlimited      |
+| et       | dolbajobaxd    |
+| nl       | shawkeee       |
+| no       | DannyJ#1718    |
+| pl       | seba74         |
+| pt       | beastpt        |
+| ta       | thegamer\_zone |
 
 
 
