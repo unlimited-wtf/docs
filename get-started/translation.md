@@ -13,10 +13,11 @@ Our frontend supports multiple languages. If you want your native language suppo
 | en       | Unlimited      |
 | et       | dolbajobaxd    |
 | nl       | shawkeee       |
-| no       | DannyJ#1718    |
+| no       | danny.xxx      |
 | pl       | seba74         |
 | pt       | beastpt        |
 | ta       | thegamer\_zone |
+| tr       | parzil         |
 
 
 
